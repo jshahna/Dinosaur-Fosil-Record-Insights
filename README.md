@@ -1,1 +1,2 @@
 # Dinosaur-Fosil-Record-Insights
+This project, part of a DataCamp competition, involved analyzing Dinosaur Fossil Record Data from the [Paleobiology Database](https://paleobiodb.org/#/). I utilized Python for Exploratory Data Analysis and Visualization to explore dinosaur diversity, the prevalence of specific types, identify the largest-bodied species, and evaluate a theory on the evolutionary increase in dinosaur size.
